@@ -1,0 +1,6 @@
+[submodule "Q4-ts-prereq"]
+	path = Q4-ts-prereq
+	url = https://github.com/hdharish01/Q4-ts-prereq.git
+[submodule "Q4-rs-prereq"]
+	path = Q4-rs-prereq
+	url = https://github.com/hdharish01/Q4-rs-prereq.git
