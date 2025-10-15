@@ -7,3 +7,6 @@
 [submodule "solana-starter"]
 	path = solana-starter
 	url = https://github.com/hdharish01/Q3-solana-starter.git
+[submodule "q4-vault"]
+	path = q4-vault
+	url = https://github.com/hdharish01/q4-vault.git
