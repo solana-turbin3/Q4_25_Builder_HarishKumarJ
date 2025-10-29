@@ -10,3 +10,6 @@
 [submodule "q4-vault"]
 	path = q4-vault
 	url = https://github.com/hdharish01/q4-vault.git
+[submodule "escrow"]
+	path = escrow
+	url = https://github.com/hdharish01/q4-escrow.git
